@@ -1,0 +1,1 @@
+Project developed during Rocketseat's ReactJS course (currently in development).
